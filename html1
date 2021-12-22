@@ -1,0 +1,89 @@
+<h1><center>Shristi singh</center></h1>
+    <html>
+    <head>
+        <title>
+            JAVA PROGRAMMING LANGUAGE
+            </title>
+            <h1>JAVA PROGRAMMING LANGUAGE.</h1>
+             <body >
+                <p>
+                    <h2>INTRODUCTION:-</h2>A powerful computer programming language that is fun for novices to learn and appropriate for experienced programmers to use in builiding substantial enterprise information systems.
+                 </p>
+                 <h2>HISTORY:-</h2>
+                 <p>The history of Java is very interesting. Java was originally designed for interactive television, but it was too advanced technology for the digital cable television industry at the time. The history of Java starts with the Green Team. Java team members (also known as Green Team), initiated this project to develop a language for digital devices such as set-top boxes, televisions, etc. However, it was best suited for internet programming. Later, Java technology was incorporated by Netscape.</p><div>The principles for creating Java programming were "Simple, Robust, Portable, Platform-independent, Secured, High Performance, Multithreaded, Architecture Neutral, Object-Oriented, Interpreted, and Dynamic". Java was developed by James Gosling, who is known as the father of Java, in 1995. James Gosling and his team members started the project in the early '90s. </p>
+                 <img src="https://static.javatpoint.com/images/j1.jpg"/>  
+                 <p> James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991. The small team of sun engineers called Green Team.</p> 
+                 <h2> JAVA DIGITAL ENVIRONMENT:-</h2>
+                 <p>Java programs normally go through five phases:-</p><ol><li>Edit:-It helps up to do editing in our programs.</li>
+                    <li> Compile:-It help us to check that our programs is correct or not .</li>
+                   <li>  Load:-It help us to load our programs in main memory.</li>
+                    <li> Verify:-It helps us to verify our program  from bytecode verifier examines their bytecodes to ensure that they are valid. </li>
+                    <li> Execute:-The  JVM executes the program's bytecodes,thus performing the actions specified by the Program. </li></ol>
+                 <h2>OUR FIRST JAVA PROGRAM:-</h2>
+                 <p>
+                 public class Welcome1<br/>
+                 {<br/>
+                     Public Static void main(Strings[] args)<br/>
+                     {<br/>
+                         System.out.println("Welcome to java Programming!");<br/>
+                     }</br>
+                 } </p>
+            <h3>OUTPUT</h3>
+            <p>Welcome to java programming!</p>   
+            <h2>To KNOW MORE ABOUT JAVA:-</h2>
+            <table border=3>
+                <tr>
+                    <th>USEFUL LINKS</th>
+                    </tr>
+                    <tr>
+                        <td><a href=https://www.w3schools.com/java/java_classes.asp>JAVA OBJECT AND CLASS</a></td>
+</tr>
+<tr>
+                            <td><a href=https://www.w3schools.com/java/java_oop.asp>JAVA OOP LANGUAGE</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href=https://www.w3schools.com/java/java_compiler.asp>JAVA COMPILER</a></td>
+                            </tr>
+                            <tr>
+                                <td><a href=https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html/>DOWNLOAD JAVA JDK FILE</a> </td>
+                                </tr>
+                                <tr>
+                                    <td><a href=https://www.w3schools.com/java/java_compiler.asp>ONLINE JAVA COMPILER</a></td></tr>
+                                    <tr>
+                                        <td><a href=https://www.interviewbit.com/java-interview-questions/>INTERVIEW QUESTIONS AND ANSWER FOR JAVA</a></td></tr>
+                                        </table>
+                                        <h2>BEST BOOKS FOR JAVA:-</h2>
+                                        <table border=3>
+                                            <tr>
+                                                
+                                            
+                        <th>LINKS</th>
+                                                </tr>
+                                                <tr>
+                                                    <ol>
+                                                    <td><li><a href=https://www.oreilly.com/library/view/head-first-java/0596009208/> LEARN JAVA PROGRAMMING</a></li></td></ol></tr>
+                                                    <tr><ol>
+                                                    <td><li><a href=https://www.google.co.in/books/edition/Thinking_in_Java/Ql6QgWf6i7cC?hl=en&gbpv=0>ADVANCED LEVEL PROGRAMMING</a></li></td></ol></tr>
+                                                            </table>
+                                                             <h2>Write a comment:-</h2>
+                                                             <form>
+  <input type="email" placeholder="Enter your email id  here"/>
+  <button type="signup">Signup</button>
+</form>
+<p>*Which Programming Language you like the most?</p>
+<form>
+  <select>
+      <option value="JAVA">JAVA</option>
+      <option value="PYTHON">Python</option>
+      <option value="C">C</option>
+      <option value="C++">C++</option>
+      <option value="HTML">HTML</option>
+      <option value="RUBY">RUBY</option>
+        </select>
+</form>
+
+<form>
+  <textarea rows="3" cols="30" placeholder="Enter Comments here"></textarea>
+  <button>Submit</button>
+</form>
+<a href="JAVA PROGRAMMING LANGUAGE">GO TO TOP</a>
